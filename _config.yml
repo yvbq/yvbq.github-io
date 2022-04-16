@@ -20,9 +20,9 @@ text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate",
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Ç¿Ç¿½´µÄ²©¿Í
+title   : å¼ºå¼ºé…±çš„åšå®¢
 description: > # this means to ignore newlines until "Language & timezone"
-  Æ½µÈ ²©°®
+
 
 
 ## => Language and Timezone
@@ -35,7 +35,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ##############################
 author:
   type      : person # "person" (default), "organization"
-  name      : Ç¿Ç¿½´
+  name      : å¼ºå¼ºé…±
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
