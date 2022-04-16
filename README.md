@@ -23,7 +23,7 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 - Internationalization
 - Search
 - Table of contents
-- Authors
+- Authors 强强酱
 - Additional styles (alert, tag, image, icon, button, grid, etc)
 - Extensions (audios, videos, slides, demos)
 - Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
@@ -85,5 +85,5 @@ TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highl
 | [Layout Examples](https://tianqi.name/jekyll-TeXt-theme/samples.html) | Examples for different layouts |
 
 ## License
-
+ 
 TeXt Theme is [MIT licensed](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE).
